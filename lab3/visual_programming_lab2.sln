@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "visual_programming_lab2", "visual_programming_lab2\visual_programming_lab2.csproj", "{18A7F79B-8AB5-45A5-A147-DD9B2D3DFAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumberTest", "RomanNumberTest\RomanNumberTest.csproj", "{BA709858-1258-434E-8AF1-FFADAB48E576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A7F79B-8AB5-45A5-A147-DD9B2D3DFAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A7F79B-8AB5-45A5-A147-DD9B2D3DFAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A7F79B-8AB5-45A5-A147-DD9B2D3DFAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A7F79B-8AB5-45A5-A147-DD9B2D3DFAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA709858-1258-434E-8AF1-FFADAB48E576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA709858-1258-434E-8AF1-FFADAB48E576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA709858-1258-434E-8AF1-FFADAB48E576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA709858-1258-434E-8AF1-FFADAB48E576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAEA1FF-F306-4911-83DB-17128C9705BE}
+	EndGlobalSection
+EndGlobal
